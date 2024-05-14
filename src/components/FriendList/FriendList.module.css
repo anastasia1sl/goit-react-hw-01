@@ -1,0 +1,9 @@
+.listFriends {
+  display: flex;
+  gap: 20px;
+  padding: 0px;
+  text-align: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-left: 15px;
+}
